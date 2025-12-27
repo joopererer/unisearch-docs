@@ -143,7 +143,8 @@
         "app_scheme": "reddit://reddit.com/search?q={keyword}",
         "max_keyword_count": 2,
         "enable_keyword_picker": true,
-        "use_desktop_user_agent": false
+        "use_desktop_user_agent": false,
+        "preferred_keyword_language": "en"
       },
       {
         "id": "xiaohongshu",
@@ -156,7 +157,8 @@
         "app_scheme": "xhsdiscover://search/result?keyword={keyword}&type=note",
         "max_keyword_count": 3,
         "enable_keyword_picker": true,
-        "use_desktop_user_agent": true
+        "use_desktop_user_agent": true,
+        "preferred_keyword_language": "zh"
       },
       {
         "id": "deviantart",
@@ -169,7 +171,8 @@
         "app_scheme": null,
         "max_keyword_count": null,
         "enable_keyword_picker": false,
-        "use_desktop_user_agent": false
+        "use_desktop_user_agent": false,
+        "preferred_keyword_language": "en"
       },
       {
         "id": "instagram",
@@ -183,7 +186,8 @@
         "max_keyword_count": 1,
         "enable_keyword_picker": true,
         "use_desktop_user_agent": false,
-        "use_external_browser": true
+        "use_external_browser": true,
+        "preferred_keyword_language": "en"
       },
       {
         "id": "x_twitter",
@@ -197,7 +201,8 @@
         "max_keyword_count": 3,
         "enable_keyword_picker": true,
         "use_desktop_user_agent": false,
-        "use_external_browser": true
+        "use_external_browser": true,
+        "preferred_keyword_language": "en"
       },
       {
         "id": "tumblr",
@@ -210,7 +215,8 @@
         "app_scheme": "tumblr://x-callback-url/search?query={keywords}",
         "max_keyword_count": 3,
         "enable_keyword_picker": false,
-        "use_desktop_user_agent": false
+        "use_desktop_user_agent": false,
+        "preferred_keyword_language": "en"
       },
       {
         "id": "weibo",
@@ -224,7 +230,8 @@
         "max_keyword_count": 3,
         "enable_keyword_picker": false,
         "use_desktop_user_agent": false,
-        "use_external_browser": true
+        "use_external_browser": true,
+        "preferred_keyword_language": "zh"
       },
       {
         "id": "baidu_images",
@@ -237,7 +244,8 @@
         "app_scheme": null,
         "max_keyword_count": null,
         "enable_keyword_picker": false,
-        "use_desktop_user_agent": true
+        "use_desktop_user_agent": true,
+        "preferred_keyword_language": "zh"
       },
       {
         "id": "behance",
@@ -250,7 +258,8 @@
         "app_scheme": null,
         "max_keyword_count": null,
         "enable_keyword_picker": false,
-        "use_desktop_user_agent": false
+        "use_desktop_user_agent": false,
+        "preferred_keyword_language": "en"
       },
       {
         "id": "dribbble",
@@ -263,7 +272,8 @@
         "app_scheme": null,
         "max_keyword_count": 3,
         "enable_keyword_picker": false,
-        "use_desktop_user_agent": false
+        "use_desktop_user_agent": false,
+        "preferred_keyword_language": "en"
       },
       {
         "id": "unsplash",
@@ -276,7 +286,8 @@
         "app_scheme": null,
         "max_keyword_count": 5,
         "enable_keyword_picker": false,
-        "use_desktop_user_agent": false
+        "use_desktop_user_agent": false,
+        "preferred_keyword_language": "en"
       },
       {
         "id": "pexels",
@@ -289,7 +300,8 @@
         "app_scheme": null,
         "max_keyword_count": 4,
         "enable_keyword_picker": false,
-        "use_desktop_user_agent": false
+        "use_desktop_user_agent": false,
+        "preferred_keyword_language": "en"
       },
       {
         "id": "flickr",
@@ -302,7 +314,8 @@
         "app_scheme": null,
         "max_keyword_count": 2,
         "enable_keyword_picker": false,
-        "use_desktop_user_agent": false
+        "use_desktop_user_agent": false,
+        "preferred_keyword_language": "en"
       },
       {
         "id": "500px",
@@ -315,7 +328,8 @@
         "app_scheme": null,
         "max_keyword_count": 5,
         "enable_keyword_picker": false,
-        "use_desktop_user_agent": false
+        "use_desktop_user_agent": false,
+        "preferred_keyword_language": "en"
       },
       {
         "id": "pixiv",
@@ -328,7 +342,8 @@
         "app_scheme": null,
         "max_keyword_count": 1,
         "enable_keyword_picker": false,
-        "use_desktop_user_agent": false
+        "use_desktop_user_agent": false,
+        "preferred_keyword_language": "en"
       },
       {
         "id": "taobao",
@@ -341,7 +356,8 @@
         "app_scheme": "taobao://s.taobao.com/search?q={keyword}",
         "max_keyword_count": null,
         "enable_keyword_picker": false,
-        "use_desktop_user_agent": false
+        "use_desktop_user_agent": false,
+        "preferred_keyword_language": "zh"
       },
       {
         "id": "jd",
@@ -354,7 +370,8 @@
         "app_scheme": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"search\",\"keyWord\":\"{keyword}\"}",
         "max_keyword_count": null,
         "enable_keyword_picker": false,
-        "use_desktop_user_agent": false
+        "use_desktop_user_agent": false,
+        "preferred_keyword_language": "zh"
       },
       {
         "id": "amazon",
@@ -382,7 +399,8 @@
         "app_scheme": null,
         "max_keyword_count": 5,
         "enable_keyword_picker": false,
-        "use_desktop_user_agent": false
+        "use_desktop_user_agent": false,
+        "preferred_keyword_language": "en"
       },
       {
         "id": "youtube",
@@ -408,7 +426,8 @@
         "app_scheme": "bilibili://search?keyword={keyword}",
         "max_keyword_count": null,
         "enable_keyword_picker": false,
-        "use_desktop_user_agent": false
+        "use_desktop_user_agent": false,
+        "preferred_keyword_language": "zh"
       },
       {
         "id": "tiktok",
