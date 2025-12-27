@@ -182,7 +182,8 @@
         "app_scheme": "instagram://tag?name={keyword}",
         "max_keyword_count": 1,
         "enable_keyword_picker": true,
-        "use_desktop_user_agent": false
+        "use_desktop_user_agent": false,
+        "use_external_browser": true
       },
       {
         "id": "x_twitter",
@@ -193,9 +194,10 @@
         "is_enabled": false,
         "color_value": 4278190080,
         "app_scheme": "twitter://search?query={keyword}",
-        "max_keyword_count": null,
-        "enable_keyword_picker": false,
-        "use_desktop_user_agent": false
+        "max_keyword_count": 3,
+        "enable_keyword_picker": true,
+        "use_desktop_user_agent": false,
+        "use_external_browser": true
       },
       {
         "id": "tumblr",
@@ -205,7 +207,7 @@
         "icon_asset_path": null,
         "is_enabled": false,
         "color_value": 4283124316,
-        "app_scheme": null,
+        "app_scheme": "tumblr://x-callback-url/search?query={keywords}",
         "max_keyword_count": 3,
         "enable_keyword_picker": false,
         "use_desktop_user_agent": false
@@ -221,7 +223,8 @@
         "app_scheme": "sinaweibo://searchall?q={keyword}",
         "max_keyword_count": 3,
         "enable_keyword_picker": false,
-        "use_desktop_user_agent": false
+        "use_desktop_user_agent": false,
+        "use_external_browser": true
       },
       {
         "id": "baidu_images",
@@ -361,10 +364,12 @@
         "icon_asset_path": null,
         "is_enabled": false,
         "color_value": 4294947840,
-        "app_scheme": null,
+        "app_scheme": "amazon://content/search/search?keyword={keywords}",
         "max_keyword_count": null,
         "enable_keyword_picker": false,
-        "use_desktop_user_agent": false
+        "use_desktop_user_agent": false,
+        "use_external_browser": true,
+        "use_app_links": true
       },
       {
         "id": "ebay",
